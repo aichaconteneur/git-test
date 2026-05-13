@@ -1,47 +1,54 @@
-# 👋 Bonjour, je suis Aichaconteneur
+# 👋 Salut, moi c’est Aicha
 
-🎓 Étudiante en DevOps / Cloud Azure  
-🌍 Passionnée par le cloud, les réseaux et l’IoT  
-🚀 Objectif : devenir Administratrice Cloud / DevOps Engineer  
+🚀 **Étudiante en DevOps / Cloud Azure**  
+🌍 Passionnée par le Cloud, les Réseaux et l’IoT  
+🎯 Objectif : devenir **Cloud & DevOps Engineer**
 
 ---
 
 ## 🧠 À propos de moi
-- 🔭 Je travaille sur des projets IoT (ESP32, MQTT)
+
+- 🔭 Je travaille sur des projets IoT (ESP32 + MQTT)
 - 🌱 J’apprends Git, Azure, Docker et CI/CD
-- ⚙️ J’aime automatiser et comprendre les infrastructures cloud
+- ⚙️ J’aime automatiser et comprendre les systèmes cloud
+- 💡 Toujours curieuse d’apprendre de nouvelles technologies
 
 ---
 
-## 🛠️ Compétences en cours
+## 🛠️ Compétences techniques
 
-![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-grey?style=for-the-badge&logo=github)
-![Azure](https://img.shields.io/badge/Azure-blue?style=for-the-badge&logo=microsoftazure)
-![Linux](https://img.shields.io/badge/Linux-yellow?style=for-the-badge&logo=linux)
-![Docker](https://img.shields.io/badge/Docker-lightblue?style=for-the-badge&logo=docker)
+### 💻 Outils & Technologies
+- Git & GitHub
+- Linux (Ubuntu)
+- Docker
+- Microsoft Azure (en apprentissage)
+- Node.js (bases)
 
 ---
 
-## 🚀 Projets
+## 🚀 Projets en cours
 
-- 📡 IoT avec ESP32 + MQTT
+- 📡 **IoT Smart System** (ESP32 + MQTT)
 - 🌐 Plateforme de supervision réseau
-- ☁️ Initiation SDN / OpenDaylight
-- 🔧 Automatisation avec scripts Linux
+- ☁️ Initiation SDN avec OpenDaylight
+- 🔧 Scripts d’automatisation Linux
 
 ---
 
-## 📈 Objectifs
-- Maîtriser Azure DevOps
-- Construire une pipeline CI/CD
-- Déployer des applications cloud
+## 📈 Objectifs professionnels
+
+- Maîtriser les environnements Cloud (Azure)
+- Construire des pipelines CI/CD
+- Déployer des applications dans le cloud
+- Travailler en environnement DevOps réel
 
 ---
 
 ## 📫 Contact
-- Email : aissatoukhairy45@gmail.com 
 
+- 📧 Email : aissatoukhairy45@gmail.com  
+- 💼 LinkedIn : https://www.linkedin.com/in/ton-profil  
+- 🐙 GitHub : https://github.com/aichaconteneur  
 
 ---
 
