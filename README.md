@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Aicha
+# 👋 Bonjour, je suis Aichaconteneur
 
 🎓 Étudiante en DevOps / Cloud Azure  
 🌍 Passionnée par le cloud, les réseaux et l’IoT  
@@ -40,8 +40,8 @@
 ---
 
 ## 📫 Contact
-- Email : tonemail@example.com  
-- LinkedIn : ton lien ici  
+- Email : aissatoukhairy45@gmail.com 
+
 
 ---
 
